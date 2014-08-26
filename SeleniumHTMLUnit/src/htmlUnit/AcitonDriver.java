@@ -24,7 +24,7 @@ public class AcitonDriver
 		System.out.println("Find name as Karan");
 		driver.findElement(By.name("btnG")).click();
 		System.out.println("Clicked on find button");
-		
+		System.out.println("Updated New");
 		
 		driverclose();
 		
